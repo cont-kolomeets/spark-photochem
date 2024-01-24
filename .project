@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SPARK</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>rsc</name>
+			<type>2</type>
+			<location>D:/Java/workspace/USB4000/src/rsc</location>
+		</link>
+		<link>
+			<name>rsc3</name>
+			<type>2</type>
+			<location>C:/Java/NewWorkspace/USB4000/rsc</location>
+		</link>
+	</linkedResources>
+</projectDescription>
