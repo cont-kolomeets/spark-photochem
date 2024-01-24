@@ -10,6 +10,7 @@ We encourage users to provide feedback in any possible way. If you have any ques
 # How to run
 
 Run one of the released versions from the `release` folder. To see the app in action you can open projects from `examples` folder.
+For the user guide please refer to the manuals in the root of the project.
 
 # Screenshots
 
